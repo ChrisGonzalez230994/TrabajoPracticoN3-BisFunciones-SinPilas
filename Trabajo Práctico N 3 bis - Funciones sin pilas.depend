@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\chrischugonzalez\desktop\facultad\laboratorio & programacion 1\4) funciones\trabajo práctico n 3 bis - funciones sin pilas\pila.c
+	"pila.h"
+
+1490112217 c:\users\chrischugonzalez\desktop\facultad\laboratorio & programacion 1\4) funciones\trabajo práctico n 3 bis - funciones sin pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1681337402 source:c:\users\chrischugonzalez\desktop\facultad\laboratorio & programacion 1\4) funciones\trabajo práctico n 3 bis - funciones sin pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
